@@ -7,6 +7,9 @@
 <title>Welcome Page</title>
 </head>
 <body>
-	<a href="tagFileExample1.jsp">Tag File Example using attribute and using attribute value is really big</a>
+<ul>
+	<li><a href="tagFileExample1.jsp">Tag File Example using attribute and using attribute value is really big</a></li>
+	<li><a href="tagFileExample2.jsp">Tag File Example using tag directive with a attribute and value is really big</a></li>
+</ul>
 </body>
 </html>
